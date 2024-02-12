@@ -1,5 +1,5 @@
 # Car-Pooling
-<img src = "111.png" width ="280" />
+<img src = "111.png" width ="300" />
 
 
 INTRODUCTION
